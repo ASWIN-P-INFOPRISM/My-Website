@@ -14941,7 +14941,7 @@ nav ul li a:hover {
   align-items: center;
   background-size: cover;
   -ms-background-size: cover;
-  background-image: var(--banner), url(../images/banner.jpg);
+  background-image: var(--banner), url(../images/myweb2.jpg);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -15275,7 +15275,7 @@ h6.title {
   align-items: center;
   background-size: cover;
   -ms-background-size: cover;
-  background-image: var(--banner), url(../images/banner2.jpg);
+  background-image: var(--banner), url(../images/myweb.jpg);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: top;
 }
